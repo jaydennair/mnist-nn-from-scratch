@@ -3,7 +3,7 @@ This project is a from-scratch implementation of a simple neural network to clas
 
 ## Model Architecture
 The model architecture includes:
-- dense multilayer perceptron (MLP) neural network
+- Dense multilayer perceptron (MLP) neural network
 - An input layer with 784 neurons (one for each pixel in a 28x28 image)  
 - Two hidden layers with 10 neurons each  
 - An output layer with 10 neurons (representing digits 0 through 9)
