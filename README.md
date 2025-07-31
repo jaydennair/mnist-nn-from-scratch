@@ -1,9 +1,9 @@
 # Project Overview
-This project is a from-scratch implementation of a simple neural network to classify handwritten digits from the MNIST dataset — using only NumPy, Pandas, and Matplotlib. No machine learning libraries like TensorFlow or PyTorch were used.
+This project is a from-scratch implementation of a simple neural network to classify handwritten digits from the MNIST dataset — using only NumPy, Pandas, and Matplotlib. No machine learning libraries like TensorFlow or PyTorch were used. 
 
 ## Model Architecture
 The model architecture includes:
-
+- dense multilayer perceptron (MLP) neural network
 - An input layer with 784 neurons (one for each pixel in a 28x28 image)  
 - Two hidden layers with 10 neurons each  
 - An output layer with 10 neurons (representing digits 0 through 9)
